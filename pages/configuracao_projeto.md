@@ -2,9 +2,8 @@
 layout: default
 ---
 
-# Configuração de projeto
+# Estrutura do projeto
 
-
-
+Diretório, nomenclatura.
 
 [Voltar](/)
