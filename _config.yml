@@ -7,5 +7,3 @@ tagline: docendo discimus
 date_format: "%b %-d, %Y"
 social_links:
   github:  elogroup-consultoria
-  linkedIn: in/galileu-kim # format: locale/username
-theme: jekyll-theme-minimal
