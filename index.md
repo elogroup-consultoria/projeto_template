@@ -10,7 +10,7 @@ Here is an image.
 
 Here are links to my on-going projects.
 
-- [Link to project](./pages/coding.html).
+- [Link para a estruturação](./pages/configuracao_projeto.html).
 
 ## Current projects:
 

@@ -7,3 +7,4 @@ tagline: docendo discimus
 date_format: "%b %-d, %Y"
 social_links:
   github:  elogroup-consultoria
+theme: jekyll-theme-minimal
