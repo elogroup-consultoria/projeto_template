@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "eloGroup"
+  name   : "EloGroup"
   avatar : "/assets/images/log-elogroup.png"
   bio    : "Template para estrutura de projetos eloGroup."
   links:
