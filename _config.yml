@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "EloGroup"
   avatar : "/assets/images/log-elogroup.png"
-  bio    : "Template para estrutura de projetos eloGroup."
+  bio    : "Template para estruturação de projetos EloGroup."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
