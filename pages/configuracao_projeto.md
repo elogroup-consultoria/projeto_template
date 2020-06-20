@@ -2,8 +2,9 @@
 layout: default
 ---
 
-# coding
+# Configuração de projeto
 
-note that this is a test.
 
-[back](/)
+
+
+[Voltar](/)

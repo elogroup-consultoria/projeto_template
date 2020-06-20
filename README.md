@@ -1,12 +1,5 @@
-# welcome:
+# Bem-vindo:
 
-Hi, my name is Galileu Kim and I am currently a Ph.D. candidate in political science at Princeton University. My research focuses on the political economy of bureaucracy and public services, with a focus on municipalities in Brazil. You can find some of my research and codes [here](https://github.com/galileukim).
+repositório git para a estruturação de projetos analytics EloGroup.
 
-Here is an image:
-![](images/minimalism_origami.jpg)
-
-## Current projects:
-
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+![](images/elogroup_logo.jpg)

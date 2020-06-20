@@ -2,11 +2,9 @@
 layout: default
 ---
 
-# Bem-vindo:
+![](images/elogroup_logo.jpg)
 
-
-Here is an image.
-![](images/minimalism_origami.jpg)
+# Bem-vindo
 
 Here are links to my on-going projects.
 
