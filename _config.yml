@@ -1,7 +1,6 @@
 remote_theme: jekyll-theme-minimal
 # Site wide configuration
 
-title: EloGroup
 logo: /images/elogroup_logo.png
 description: Uma consultoria que não parece consultoria.
 date_format: "%-d %B %Y"
