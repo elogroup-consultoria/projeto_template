@@ -3,6 +3,7 @@ description: A soul that wonders.
 # Site wide configuration
 
 title: EloGroup
+logo: /images/elogroup_logo.jpg
 tagline: docendo discimus
 date_format: "%b %-d, %Y"
 social_links:
