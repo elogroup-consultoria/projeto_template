@@ -2,6 +2,6 @@
 layout: default
 ---
 
-Tutorial git.
+Palestra.
 
 [Voltar](/)
