@@ -2,6 +2,6 @@
 layout: default
 ---
 
-Clube Ana
+Clube Analytics
 
 [Voltar](/)
