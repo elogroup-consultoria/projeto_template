@@ -3,7 +3,7 @@ remote_theme: jekyll-theme-minimal
 
 title: EloGroup
 logo: /images/elogroup_logo.png
-tagline: Uma consultoria que não parece consultoria.
+description: Uma consultoria que não parece consultoria.
 date_format: "%-d %B %Y"
 social_links:
   github:  elogroup-consultoria
