@@ -9,47 +9,47 @@ READMEs.md
     1. Principais etapas
 
     <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">etste</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-btxf"></td>
-    <td class="tg-btxf"></td>
-    <td class="tg-btxf"></td>
-    <td class="tg-btxf"></td>
-    <td class="tg-btxf"></td>
-    <td class="tg-btxf"></td>
-    <td class="tg-btxf"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
+    .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+    .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+      font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+      font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+    .tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
+    </style>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-0pky">etste</th>
+        <th class="tg-0pky">etste</th>
+        <th class="tg-0pky">etste</th>
+        <th class="tg-0pky">etste</th>
+        <th class="tg-0pky">etste</th>
+        <th class="tg-0pky">etste</th>
+        <th class="tg-0pky">etste</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-btxf">ola</td>
+        <td class="tg-btxf">ola</td>
+        <td class="tg-btxf">ola</td>
+        <td class="tg-btxf">ola</td>
+        <td class="tg-btxf">ola</td>
+        <td class="tg-btxf">ola</td>
+        <td class="tg-btxf">ola</td>
+      </tr>
+      <tr>
+        <td class="tg-0pky">teste</td>
+        <td class="tg-0pky">teste</td>
+        <td class="tg-0pky">teste</td>
+        <td class="tg-0pky">teste</td>
+        <td class="tg-0pky">teste</td>
+        <td class="tg-0pky">teste</td>
+        <td class="tg-0pky">teste</td>
+      </tr>
+    </tbody>
+    </table>
 
 
 
