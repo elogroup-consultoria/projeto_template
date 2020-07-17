@@ -4,4 +4,4 @@ layout: default
 
 Palestra.
 
-[Voltar](/)
+[Voltar](/projeto_template/)

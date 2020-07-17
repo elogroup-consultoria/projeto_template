@@ -4,4 +4,4 @@ layout: default
 
 Clube Analytics
 
-[Voltar](/)
+[Voltar](/projeto_template/)
