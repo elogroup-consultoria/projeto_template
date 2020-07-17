@@ -4,7 +4,7 @@ layout: default
 
 Certos princípios básicos ajudam a abordar projetos de forma sistemática e eficiente. Dividimos cada projeto em três grandes etapas: planejamento, modelagem e implementação. De acordo com as características de cada projeto, cada etapa pode prolongar-se mais, ou menos. É responsabilidade da equipe definir cronogramas e alinhar expectativas no início e decorrer do projeto.
 
-1. [Enquadramento](/projeto_template/pages/workflow/enquadramento.html).
+1. [Enquadramento](./workflow/enquadramento.html).
     1. Entender a dinâmica de negócio do cliente.
     2. Identificar como Analytics pode efetivamente resolver os problemas.
     3. Identificar pontos focais no cliente, tanto na parte de negócio como na parte técnica.
@@ -15,7 +15,7 @@ Certos princípios básicos ajudam a abordar projetos de forma sistemática e ef
     3. Verificar se os dados recebidos fazem sentido.
     4. Ajustar os dados (pré-processamento) para a fase de análise exploratória. 
 
-3. [Análise Exploratória (EDA)](/projeto_template/pages/eda.html)
+3. [Análise Exploratória (EDA)](/projeto_template/pages/workflow/eda.html)
     1. Características principais dos dados.
     2. Definir hipóteses e identificar modelos para testá-las.
 
